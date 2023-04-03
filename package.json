@@ -1,0 +1,18 @@
+{
+    "name": "app-background",
+    "version": "0.1.0",
+    "description": "Simple background API for mobile app in ExpressJS",
+    "main": "app.js",
+    "scripts": {
+        "test": "",
+        "serve": "node ."
+    },
+    "author": "kolapsaw",
+    "license": "MIT",
+    "dependencies": {
+        "body-parser": "^1.20.1",
+        "cors": "^2.8.5",
+        "express": "^4.18.2",
+        "sqlite3": "^5.1.4"
+    }
+}
